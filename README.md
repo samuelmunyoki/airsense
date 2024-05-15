@@ -1,16 +1,23 @@
-# airsense
 
-A new Flutter project.
+# AIRSENSE TEST 
 
-## Getting Started
+A cross application flutter aplication that plots the temperature values between 07/05/2024 to 14/05/2024
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### PACKAGES USED
+
+The following 3rd party dependencies were used.
+
+`fl_chart: ^0.68.0` - Plotting graph
+
+`http: ^1.2.1`- Making HTTP Request
+
+
+### Author
+
+- [@samuelmunyoki](https://www.github.com/samuelmunyoki)
+
+
+
