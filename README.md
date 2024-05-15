@@ -20,4 +20,12 @@ The following 3rd party dependencies were used.
 - [@samuelmunyoki](https://www.github.com/samuelmunyoki)
 
 
+## Screenshots
+
+#### Web demo
+![App Screenshot](https://github.com/samuelmunyoki/airsense/blob/main/web.png?raw=true)
+
+#### Android demo
+
+![App Screenshot](https://github.com/samuelmunyoki/airsense/blob/main/android.jpeg?raw=true)
 
